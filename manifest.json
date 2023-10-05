@@ -2,7 +2,7 @@
     "name": "local notification",
     "short_name": "local",
     "description": "local notification",
-    "start_url": "/index.html",
+    "start_url": "/local-notification/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
